@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AssistBot.Domain/AssistBot.Domain.csproj" />
+    <Project Path="src/AssistBot.Application/AssistBot.Application.csproj" />
+    <Project Path="src/AssistBot.Infrastructure/AssistBot.Infrastructure.csproj" />
+    <Project Path="src/AssistBot.Bot/AssistBot.Bot.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AssistBot.Tests/AssistBot.Tests.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+    <File Path=".env.example" />
+    <File Path="README.md" />
+  </Folder>
+</Solution>
